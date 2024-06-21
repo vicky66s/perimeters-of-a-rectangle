@@ -9,7 +9,7 @@ class Rectangle:
     def calculate_perimeter(self):
         return 2 * (self.length + self.width)
 
-# Taking input for length and width
+# Taking input for length and width0.251
 length = float(input("Enter the length of the rectangle: "))
 width = float(input("Enter the width of the rectangle: "))
 
